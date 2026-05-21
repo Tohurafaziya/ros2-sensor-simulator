@@ -2,8 +2,8 @@
 
 Author
 
-Tohura Faziya
-Driverless Team, Schanzer Racing e.V.
+Tohura Faziya.
+Driverless Team, Schanzer Racing.
 Email: tohura.faziya@schanzer-racing.de
 
 
